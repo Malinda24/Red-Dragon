@@ -36,7 +36,7 @@ global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive pictur
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
-global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "false")
+global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
 global.owner = ['+94701655661']
 global.ownertag = '+94701655661' //your tag number
@@ -300,7 +300,7 @@ global.rep = { // All Replies = 145
     K138: '😌😌',
     K139: '🥲🥲💔',
     K140: '😍🥰😘💞💕💓💗💖❣️❤️',
-    K141: 
+    K14
 
 
 
